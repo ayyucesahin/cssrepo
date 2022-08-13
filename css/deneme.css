@@ -1,0 +1,32 @@
+#urun {
+    list-style-position:inside;
+    position:relative;
+    style="text-align:center"
+    
+}
+img {
+    height: 350px;
+    width: 300px;
+}
+.anamenu {
+    color:brown;
+    font-size: 18px;
+    display: inline;
+    word-spacing: 5px;
+
+    
+}
+#table {
+    color:brown;
+    display: inline;
+}
+h1 {
+    color:darkred;
+    text-align: center;
+}
+h2 {
+    color:firebrick;
+}
+p {
+    font-size: 18px;
+}
